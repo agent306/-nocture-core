@@ -1,0 +1,8 @@
+# IDE stuff
+.idea
+
+# Vendor folder
+node_modules
+
+# Lock files
+package-lock.json
